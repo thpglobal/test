@@ -1,0 +1,16 @@
+{
+    "name": "johncoonrod/test",
+    "description": "Test thpclasses",
+    "type": "project",
+    "require": {
+        "thpglobal/thpclasses": "9999999-dev",
+        "google/apiclient": "2.x-dev"
+    },
+    "authors": [
+        {
+            "name": "John Coonrod",
+            "email": "jc@thp.org"
+        }
+    ],
+    "minimum-stability": "dev"
+}

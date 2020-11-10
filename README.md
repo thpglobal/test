@@ -1,1 +1,1 @@
-# test.php
+# test - test using composer with thpclasses

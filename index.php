@@ -1,5 +1,5 @@
 <?php
-use \Thpglobal\Thpclasses;
+use \Thpglobal;
 require 'vendor/autoload.php';
 
 session_start();

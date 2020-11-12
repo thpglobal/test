@@ -66,12 +66,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client.git",
-                "reference": "c8f6d09f50f859fa9457104bb0fb72c893804ede"
+                "reference": "24f3ec0c79567a08c31f8271b61d79b050b25b0a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/c8f6d09f50f859fa9457104bb0fb72c893804ede",
-                "reference": "c8f6d09f50f859fa9457104bb0fb72c893804ede",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/24f3ec0c79567a08c31f8271b61d79b050b25b0a",
+                "reference": "24f3ec0c79567a08c31f8271b61d79b050b25b0a",
                 "shasum": ""
             },
             "require": {
@@ -126,9 +126,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client/issues",
-                "source": "https://github.com/googleapis/google-api-php-client/tree/v2.8.1"
+                "source": "https://github.com/googleapis/google-api-php-client/tree/v2.8.2"
             },
-            "time": "2020-10-27T23:20:13+00:00"
+            "time": "2020-11-11T17:07:53+00:00"
         },
         {
             "name": "google/apiclient-services",
@@ -924,16 +924,21 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/thpglobal/thpclasses.git",
-                "reference": "30ae82b7bfc785d96678b19608861effe046dd42"
+                "reference": "b8d1dac43bcb8f37dc2d83fb07bc950fb3d571ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thpglobal/thpclasses/zipball/30ae82b7bfc785d96678b19608861effe046dd42",
-                "reference": "30ae82b7bfc785d96678b19608861effe046dd42",
+                "url": "https://api.github.com/repos/thpglobal/thpclasses/zipball/b8d1dac43bcb8f37dc2d83fb07bc950fb3d571ed",
+                "reference": "b8d1dac43bcb8f37dc2d83fb07bc950fb3d571ed",
                 "shasum": ""
             },
             "default-branch": true,
             "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Thpglobal\\": "thpglobal/thpclasses/classes/"
+                }
+            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
@@ -958,7 +963,7 @@
                 "issues": "https://github.com/thpglobal/thpclasses/issues",
                 "source": "https://github.com/thpglobal/thpclasses/tree/master"
             },
-            "time": "2020-11-10T21:11:01+00:00"
+            "time": "2020-11-10T22:49:50+00:00"
         }
     ],
     "packages-dev": [],

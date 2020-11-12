@@ -1,0 +1,1 @@
+gcloud app deploy --version=1 --project=thptest3 --no-cache

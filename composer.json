@@ -3,7 +3,7 @@
     "description": "Test thpclasses",
     "type": "project",
     "require": {
-        "thpglobal/classes": "9999999-dev",
+        "thpglobal/classes": "9999999-dev"
     },
     "authors": [
         {

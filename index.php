@@ -1,6 +1,6 @@
 <?php
-use \Thpglobal;
 require __DIR__.'/vendor/autoload.php';
+use Thpglobal\Page;
 
 session_start();
 ini_set('display_errors',1);

@@ -3,8 +3,7 @@
     "description": "Test thpclasses",
     "type": "project",
     "require": {
-        "thpglobal/thpclasses": "9999999-dev",
-        "google/apiclient": "2.x-dev"
+        "thpglobal/classes": "9999999-dev",
     },
     "authors": [
         {
